@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "mongoUri": "mongodb+srv://neoruslan:b^0lo4EG2FS6QaCOw@Mf@cluster0.ecpx3.mongodb.net/app?retryWrites=true&w=majority",
+  "jwtSecret": "mern stack shortener",
+  "baseUrl": "http://localhost:5000"
+}
